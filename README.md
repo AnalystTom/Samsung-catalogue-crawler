@@ -1,0 +1,1 @@
+# Empty Template to be re-used for coding projects with claude code
