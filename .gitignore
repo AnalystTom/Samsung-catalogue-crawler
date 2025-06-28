@@ -1,3 +1,5 @@
 .env
 .mcp.json
 start-mcp-server.sh
+venv
+.venv

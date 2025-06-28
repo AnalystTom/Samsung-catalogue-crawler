@@ -1,0 +1,40 @@
+2025-06-17 15:39:19,220 - INFO - Starting Samsung UK product extraction...
+2025-06-17 15:39:19,220 - INFO - Loaded 573 URLs from expanded_product_urls.txt
+2025-06-17 15:39:19,220 - INFO - Processing 573 product URLs...
+2025-06-17 15:39:28,840 - INFO - Progress: 50/573 (50 successful)
+2025-06-17 15:39:42,320 - INFO - Progress: 100/573 (100 successful)
+2025-06-17 15:39:52,733 - INFO - Progress: 150/573 (150 successful)
+2025-06-17 15:40:01,700 - INFO - Progress: 200/573 (200 successful)
+2025-06-17 15:40:15,268 - INFO - Progress: 250/573 (250 successful)
+2025-06-17 15:40:25,816 - INFO - Progress: 300/573 (300 successful)
+2025-06-17 15:40:38,456 - INFO - Progress: 350/573 (350 successful)
+2025-06-17 15:40:53,311 - INFO - Progress: 400/573 (400 successful)
+2025-06-17 15:41:05,996 - INFO - Progress: 450/573 (450 successful)
+2025-06-17 15:41:18,556 - INFO - Progress: 500/573 (500 successful)
+2025-06-17 15:41:35,776 - INFO - Progress: 550/573 (550 successful)
+2025-06-17 15:41:39,863 - INFO - Saving 573 products to products.ndjson
+2025-06-17 15:41:39,878 - INFO - Converting 573 products to Parquet format: products.parquet
+2025-06-17 15:41:39,959 - INFO - Parquet file saved: products.parquet
+2025-06-17 15:41:39,961 - INFO - Product extraction completed!
+2025-06-17 18:05:54,767 - INFO - Starting Samsung UK product extraction...
+2025-06-17 18:05:54,768 - INFO - Loaded 750 URLs from expanded-list-17.06.17.49.txt
+2025-06-17 18:05:54,768 - INFO - Processing 750 product URLs...
+2025-06-17 18:06:09,311 - INFO - Progress: 50/750 (50 successful)
+2025-06-17 18:06:24,495 - INFO - Progress: 100/750 (100 successful)
+2025-06-17 18:06:39,562 - INFO - Progress: 150/750 (150 successful)
+2025-06-17 18:06:57,386 - INFO - Progress: 200/750 (200 successful)
+2025-06-17 18:07:19,532 - INFO - Progress: 250/750 (250 successful)
+2025-06-17 18:07:31,520 - INFO - Progress: 300/750 (300 successful)
+2025-06-17 18:07:40,813 - INFO - Progress: 350/750 (350 successful)
+2025-06-17 18:07:58,324 - INFO - Progress: 400/750 (400 successful)
+2025-06-17 18:08:14,009 - INFO - Progress: 450/750 (450 successful)
+2025-06-17 18:08:33,210 - INFO - Progress: 500/750 (500 successful)
+2025-06-17 18:08:48,860 - INFO - Progress: 550/750 (550 successful)
+2025-06-17 18:09:09,028 - INFO - Progress: 600/750 (600 successful)
+2025-06-17 18:09:29,069 - INFO - Progress: 650/750 (650 successful)
+2025-06-17 18:09:45,224 - INFO - Progress: 700/750 (700 successful)
+2025-06-17 18:10:08,678 - INFO - Progress: 750/750 (750 successful)
+2025-06-17 18:10:09,180 - INFO - Saving 750 products to products.ndjson
+2025-06-17 18:10:09,273 - INFO - Converting 750 products to Parquet format: products.parquet
+2025-06-17 18:10:09,719 - INFO - Parquet file saved: products.parquet
+2025-06-17 18:10:09,722 - INFO - Product extraction completed!

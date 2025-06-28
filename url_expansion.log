@@ -1,0 +1,245 @@
+2025-06-17 17:50:52,481 - INFO - Starting Samsung UK product URL expansion...
+2025-06-17 17:50:52,481 - INFO - Loading URLs from curated_category_urls.txt
+2025-06-17 17:50:52,482 - INFO - Loaded 93 URLs from input file
+2025-06-17 17:50:52,482 - INFO - Categorizing input URLs...
+2025-06-17 17:50:52,486 - INFO - Identified 90 category listing URLs
+2025-06-17 17:50:52,486 - INFO - Identified 0 individual product URLs
+2025-06-17 17:50:52,486 - INFO - Expanding 90 category URLs...
+2025-06-17 17:50:52,487 - INFO - Expanding category URL: https://www.samsung.com/uk/tv-accessories/
+2025-06-17 17:50:52,488 - INFO - Expanding category URL: https://www.samsung.com/uk/projector-accessories/all-projector-accessories/
+2025-06-17 17:50:52,489 - INFO - Expanding category URL: https://www.samsung.com/uk/tvs/43-inch-tvs/
+2025-06-17 17:51:13,912 - INFO - Found 0 products in https://www.samsung.com/uk/projector-accessories/all-projector-accessories/
+2025-06-17 17:51:15,316 - INFO - Found 24 products in https://www.samsung.com/uk/tv-accessories/
+2025-06-17 17:51:15,913 - INFO - Expanding category URL: https://www.samsung.com/uk/mobile-accessories/all-mobile-accessories/
+2025-06-17 17:51:17,316 - INFO - Expanding category URL: https://www.samsung.com/uk/tvs/85-inch-tvs/
+2025-06-17 17:51:17,425 - INFO - Found 48 products in https://www.samsung.com/uk/tvs/43-inch-tvs/
+2025-06-17 17:51:21,012 - INFO - Expanding category URL: https://www.samsung.com/uk/hobs/
+2025-06-17 17:51:26,980 - INFO - Found 0 products in https://www.samsung.com/uk/hobs/
+2025-06-17 17:51:28,981 - INFO - Expanding category URL: https://www.samsung.com/uk/tvs/neo-qled/
+2025-06-17 17:51:34,890 - INFO - Found 0 products in https://www.samsung.com/uk/tvs/neo-qled/
+2025-06-17 17:51:34,890 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/tvs/neo-qled/: only 0 products found
+2025-06-17 17:51:34,890 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:51:36,891 - INFO - Expanding category URL: https://www.samsung.com/uk/computing/laptops/
+2025-06-17 17:51:39,770 - INFO - Found 65 products in https://www.samsung.com/uk/mobile-accessories/all-mobile-accessories/
+2025-06-17 17:51:41,771 - INFO - Expanding category URL: https://www.samsung.com/uk/tvs/neo-qled-8k/
+2025-06-17 17:51:43,134 - INFO - Found 0 products in https://www.samsung.com/uk/computing/laptops/
+2025-06-17 17:51:45,136 - INFO - Expanding category URL: https://www.samsung.com/uk/refrigerators/
+2025-06-17 17:51:45,836 - INFO - Found 63 products in https://www.samsung.com/uk/tvs/85-inch-tvs/
+2025-06-17 17:51:47,837 - INFO - Expanding category URL: https://www.samsung.com/uk/smartphones/galaxy-s25/
+2025-06-17 17:51:48,126 - INFO - Found 0 products in https://www.samsung.com/uk/tvs/neo-qled-8k/
+2025-06-17 17:51:48,126 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/tvs/neo-qled-8k/: only 0 products found
+2025-06-17 17:51:48,126 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:51:50,127 - INFO - Expanding category URL: https://www.samsung.com/uk/accessories/
+2025-06-17 17:51:55,703 - INFO - Found 0 products in https://www.samsung.com/uk/refrigerators/
+2025-06-17 17:51:56,083 - INFO - Found 0 products in https://www.samsung.com/uk/smartphones/galaxy-s25/
+2025-06-17 17:51:56,084 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/smartphones/galaxy-s25/: only 0 products found
+2025-06-17 17:51:56,084 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:51:57,704 - INFO - Expanding category URL: https://www.samsung.com/uk/vacuum-cleaners/stick/
+2025-06-17 17:51:58,085 - INFO - Expanding category URL: https://www.samsung.com/uk/washers-dryers/
+2025-06-17 17:51:58,203 - INFO - Found 0 products in https://www.samsung.com/uk/accessories/
+2025-06-17 17:52:00,205 - INFO - Expanding category URL: https://www.samsung.com/uk/tvs/oled/
+2025-06-17 17:52:05,000 - INFO - Found 0 products in https://www.samsung.com/uk/washers-dryers/
+2025-06-17 17:52:06,852 - INFO - Found 0 products in https://www.samsung.com/uk/tvs/oled/
+2025-06-17 17:52:06,852 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/tvs/oled/: only 0 products found
+2025-06-17 17:52:06,852 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:52:07,001 - INFO - Expanding category URL: https://www.samsung.com/uk/hoods/
+2025-06-17 17:52:08,854 - INFO - Expanding category URL: https://www.samsung.com/uk/tablets/all-tablets/
+2025-06-17 17:52:12,953 - INFO - Found 0 products in https://www.samsung.com/uk/hoods/
+2025-06-17 17:52:14,955 - INFO - Expanding category URL: https://www.samsung.com/uk/tvs/neo-qled-8k-tvs/
+2025-06-17 17:52:19,823 - INFO - Found 4 products in https://www.samsung.com/uk/vacuum-cleaners/stick/
+2025-06-17 17:52:21,824 - INFO - Expanding category URL: https://www.samsung.com/uk/audio-sound/galaxy-buds3-pro/
+2025-06-17 17:52:21,965 - INFO - Found 0 products in https://www.samsung.com/uk/tvs/neo-qled-8k-tvs/
+2025-06-17 17:52:21,965 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/tvs/neo-qled-8k-tvs/: only 0 products found
+2025-06-17 17:52:21,965 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:52:23,967 - INFO - Expanding category URL: https://www.samsung.com/uk/dishwashers/
+2025-06-17 17:52:29,355 - INFO - Found 0 products in https://www.samsung.com/uk/audio-sound/galaxy-buds3-pro/
+2025-06-17 17:52:29,355 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/audio-sound/galaxy-buds3-pro/: only 0 products found
+2025-06-17 17:52:29,355 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:52:31,355 - INFO - Expanding category URL: https://www.samsung.com/uk/monitors/odyssey-oled-g8/
+2025-06-17 17:52:31,970 - INFO - Found 0 products in https://www.samsung.com/uk/dishwashers/
+2025-06-17 17:52:33,970 - INFO - Expanding category URL: https://www.samsung.com/uk/audio-sound/
+2025-06-17 17:52:37,176 - INFO - Found 0 products in https://www.samsung.com/uk/monitors/odyssey-oled-g8/
+2025-06-17 17:52:37,176 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/monitors/odyssey-oled-g8/: only 0 products found
+2025-06-17 17:52:37,176 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:52:39,177 - INFO - Expanding category URL: https://www.samsung.com/uk/tvs/the-frame/
+2025-06-17 17:52:40,316 - INFO - Found 6 products in https://www.samsung.com/uk/audio-sound/
+2025-06-17 17:52:40,316 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/audio-sound/: only 6 products found
+2025-06-17 17:52:40,316 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:52:42,317 - INFO - Expanding category URL: https://www.samsung.com/uk/mobile-accessories/smart-tag/
+2025-06-17 17:52:45,156 - INFO - Found 0 products in https://www.samsung.com/uk/tvs/the-frame/
+2025-06-17 17:52:45,156 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/tvs/the-frame/: only 0 products found
+2025-06-17 17:52:45,156 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:52:46,872 - INFO - Found 20 products in https://www.samsung.com/uk/tablets/all-tablets/
+2025-06-17 17:52:47,156 - INFO - Expanding category URL: https://www.samsung.com/uk/vacuum-cleaners/robot/
+2025-06-17 17:52:48,659 - INFO - Found 0 products in https://www.samsung.com/uk/mobile-accessories/smart-tag/
+2025-06-17 17:52:48,873 - INFO - Expanding category URL: https://www.samsung.com/uk/home-appliance-accessories/all-home-appliance-accessories/
+2025-06-17 17:52:50,659 - INFO - Expanding category URL: https://www.samsung.com/uk/refrigerators/bespoke-spacemax/
+2025-06-17 17:52:57,373 - INFO - Found 0 products in https://www.samsung.com/uk/refrigerators/bespoke-spacemax/
+2025-06-17 17:52:59,375 - INFO - Expanding category URL: https://www.samsung.com/uk/tablets/
+2025-06-17 17:53:07,632 - INFO - Found 3 products in https://www.samsung.com/uk/tablets/
+2025-06-17 17:53:09,633 - INFO - Expanding category URL: https://www.samsung.com/uk/tvs/the-sero/
+2025-06-17 17:53:09,942 - INFO - Found 8 products in https://www.samsung.com/uk/vacuum-cleaners/robot/
+2025-06-17 17:53:11,942 - INFO - Expanding category URL: https://www.samsung.com/uk/smartphones/galaxy-z-fold6/
+2025-06-17 17:53:12,751 - INFO - Found 10 products in https://www.samsung.com/uk/home-appliance-accessories/all-home-appliance-accessories/
+2025-06-17 17:53:14,752 - INFO - Expanding category URL: https://www.samsung.com/uk/computers/all-computers/
+2025-06-17 17:53:15,637 - INFO - Found 0 products in https://www.samsung.com/uk/tvs/the-sero/
+2025-06-17 17:53:15,637 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/tvs/the-sero/: only 0 products found
+2025-06-17 17:53:15,638 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:53:17,638 - INFO - Expanding category URL: https://www.samsung.com/uk/memory-storage/
+2025-06-17 17:53:18,920 - INFO - Found 0 products in https://www.samsung.com/uk/smartphones/galaxy-z-fold6/
+2025-06-17 17:53:18,920 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/smartphones/galaxy-z-fold6/: only 0 products found
+2025-06-17 17:53:18,920 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:53:20,922 - INFO - Expanding category URL: https://www.samsung.com/uk/appliances-accessories/
+2025-06-17 17:53:23,529 - INFO - Found 0 products in https://www.samsung.com/uk/memory-storage/
+2025-06-17 17:53:25,530 - INFO - Expanding category URL: https://www.samsung.com/uk/smartphones/galaxy-s25-ultra/
+2025-06-17 17:53:27,852 - INFO - Found 0 products in https://www.samsung.com/uk/appliances-accessories/
+2025-06-17 17:53:29,863 - INFO - Expanding category URL: https://www.samsung.com/uk/audio-accessories/galaxy-buds-accessories/
+2025-06-17 17:53:35,516 - INFO - Found 0 products in https://www.samsung.com/uk/smartphones/galaxy-s25-ultra/
+2025-06-17 17:53:35,516 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/smartphones/galaxy-s25-ultra/: only 0 products found
+2025-06-17 17:53:35,517 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:53:37,518 - INFO - Expanding category URL: https://www.samsung.com/uk/audio-sound/galaxy-buds/
+2025-06-17 17:53:37,862 - INFO - Found 0 products in https://www.samsung.com/uk/audio-accessories/galaxy-buds-accessories/
+2025-06-17 17:53:37,862 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/audio-accessories/galaxy-buds-accessories/: only 0 products found
+2025-06-17 17:53:37,862 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:53:39,864 - INFO - Expanding category URL: https://www.samsung.com/uk/smartphones/all-smartphones/
+2025-06-17 17:53:54,349 - INFO - Found 36 products in https://www.samsung.com/uk/computers/all-computers/
+2025-06-17 17:53:56,349 - INFO - Expanding category URL: https://www.samsung.com/uk/computing/galaxy-book5-pro/
+2025-06-17 17:53:58,972 - INFO - Found 8 products in https://www.samsung.com/uk/audio-sound/galaxy-buds/
+2025-06-17 17:53:58,972 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/audio-sound/galaxy-buds/: only 8 products found
+2025-06-17 17:53:58,972 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:54:00,974 - INFO - Expanding category URL: https://www.samsung.com/uk/tvs/uhd-4k-tv/
+2025-06-17 17:54:02,489 - INFO - Found 0 products in https://www.samsung.com/uk/computing/galaxy-book5-pro/
+2025-06-17 17:54:02,489 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/computing/galaxy-book5-pro/: only 0 products found
+2025-06-17 17:54:02,489 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:54:04,490 - INFO - Expanding category URL: https://www.samsung.com/uk/projector-accessories/
+2025-06-17 17:54:26,827 - INFO - Found 0 products in https://www.samsung.com/uk/projector-accessories/
+2025-06-17 17:54:28,828 - INFO - Expanding category URL: https://www.samsung.com/uk/tvs/98-inch-tvs/
+2025-06-17 17:54:30,015 - INFO - Found 63 products in https://www.samsung.com/uk/tvs/uhd-4k-tv/
+2025-06-17 17:54:32,017 - INFO - Expanding category URL: https://www.samsung.com/uk/cooking-appliances/hobs/
+2025-06-17 17:54:50,270 - INFO - Found 0 products in https://www.samsung.com/uk/cooking-appliances/hobs/
+2025-06-17 17:54:52,271 - INFO - Expanding category URL: https://www.samsung.com/uk/mobile/galaxy-ring/
+2025-06-17 17:54:52,796 - INFO - Found 13 products in https://www.samsung.com/uk/tvs/98-inch-tvs/
+2025-06-17 17:54:54,796 - INFO - Expanding category URL: https://www.samsung.com/uk/audio-devices/all-audio-devices/
+2025-06-17 17:55:00,006 - INFO - Found 0 products in https://www.samsung.com/uk/mobile/galaxy-ring/
+2025-06-17 17:55:02,008 - INFO - Expanding category URL: https://www.samsung.com/uk/tvs/crystal-uhd/
+2025-06-17 17:55:08,308 - INFO - Found 0 products in https://www.samsung.com/uk/tvs/crystal-uhd/
+2025-06-17 17:55:08,309 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/tvs/crystal-uhd/: only 0 products found
+2025-06-17 17:55:08,309 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:55:10,310 - INFO - Expanding category URL: https://www.samsung.com/uk/cooking-appliances/hoods/
+2025-06-17 17:55:14,241 - INFO - Found 38 products in https://www.samsung.com/uk/smartphones/all-smartphones/
+2025-06-17 17:55:17,981 - INFO - Expanding category URL: https://www.samsung.com/uk/tvs/the-frame/the-frame-pro/
+2025-06-17 17:55:27,152 - INFO - Found 0 products in https://www.samsung.com/uk/tvs/the-frame/the-frame-pro/
+2025-06-17 17:55:27,152 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/tvs/the-frame/the-frame-pro/: only 0 products found
+2025-06-17 17:55:27,153 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:55:28,259 - INFO - Found 0 products in https://www.samsung.com/uk/cooking-appliances/hoods/
+2025-06-17 17:55:29,154 - INFO - Expanding category URL: https://www.samsung.com/uk/memory-storage/all-memory-storage/
+2025-06-17 17:55:30,259 - INFO - Expanding category URL: https://www.samsung.com/uk/watches/all-watches/
+2025-06-17 17:55:53,194 - INFO - Found 20 products in https://www.samsung.com/uk/watches/all-watches/
+2025-06-17 17:55:55,195 - INFO - Expanding category URL: https://www.samsung.com/uk/microwaves/
+2025-06-17 17:55:57,903 - INFO - Found 37 products in https://www.samsung.com/uk/memory-storage/all-memory-storage/
+2025-06-17 17:55:58,303 - INFO - Found 4 products in https://www.samsung.com/uk/audio-devices/all-audio-devices/
+2025-06-17 17:55:58,303 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/audio-devices/all-audio-devices/: only 4 products found
+2025-06-17 17:55:58,303 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:55:59,904 - INFO - Expanding category URL: https://www.samsung.com/uk/monitors/all-monitors/
+2025-06-17 17:56:00,305 - INFO - Expanding category URL: https://www.samsung.com/uk/cooking-appliances/microwave-ovens/
+2025-06-17 17:56:06,615 - INFO - Found 0 products in https://www.samsung.com/uk/cooking-appliances/microwave-ovens/
+2025-06-17 17:56:08,616 - INFO - Expanding category URL: https://www.samsung.com/uk/tvs/32-inch-tvs/
+2025-06-17 17:56:17,873 - INFO - Found 0 products in https://www.samsung.com/uk/microwaves/
+2025-06-17 17:56:19,875 - INFO - Expanding category URL: https://www.samsung.com/uk/rings/all-rings/
+2025-06-17 17:56:28,104 - INFO - Found 54 products in https://www.samsung.com/uk/monitors/all-monitors/
+2025-06-17 17:56:30,105 - INFO - Expanding category URL: https://www.samsung.com/uk/tablet-accessories/
+2025-06-17 17:56:35,628 - INFO - Found 0 products in https://www.samsung.com/uk/tablet-accessories/
+2025-06-17 17:56:36,361 - INFO - Found 66 products in https://www.samsung.com/uk/tvs/32-inch-tvs/
+2025-06-17 17:56:37,631 - INFO - Expanding category URL: https://www.samsung.com/uk/audio-sound/all-audio-sound/
+2025-06-17 17:56:38,362 - INFO - Expanding category URL: https://www.samsung.com/uk/computing-accessories/
+2025-06-17 17:56:42,478 - INFO - Found 1 products in https://www.samsung.com/uk/rings/all-rings/
+2025-06-17 17:56:44,262 - INFO - Found 0 products in https://www.samsung.com/uk/computing-accessories/
+2025-06-17 17:56:44,480 - INFO - Expanding category URL: https://www.samsung.com/uk/tvs/oled-tvs/
+2025-06-17 17:56:46,263 - INFO - Expanding category URL: https://www.samsung.com/uk/ovens/
+2025-06-17 17:56:54,439 - INFO - Found 0 products in https://www.samsung.com/uk/ovens/
+2025-06-17 17:56:56,440 - INFO - Expanding category URL: https://www.samsung.com/uk/tvs/75-inch-tvs/
+2025-06-17 17:57:01,913 - INFO - Found 12 products in https://www.samsung.com/uk/audio-sound/all-audio-sound/
+2025-06-17 17:57:03,914 - INFO - Expanding category URL: https://www.samsung.com/uk/tvs/the-serif/
+2025-06-17 17:57:09,773 - INFO - Found 0 products in https://www.samsung.com/uk/tvs/the-serif/
+2025-06-17 17:57:09,774 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/tvs/the-serif/: only 0 products found
+2025-06-17 17:57:09,774 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:57:11,775 - INFO - Expanding category URL: https://www.samsung.com/uk/cooking-appliances/ovens/
+2025-06-17 17:57:20,239 - INFO - Found 17 products in https://www.samsung.com/uk/tvs/oled-tvs/
+2025-06-17 17:57:22,240 - INFO - Expanding category URL: https://www.samsung.com/uk/washers-and-dryers/all-washers-and-dryers/
+2025-06-17 17:57:25,908 - INFO - Found 62 products in https://www.samsung.com/uk/tvs/75-inch-tvs/
+2025-06-17 17:57:27,909 - INFO - Expanding category URL: https://www.samsung.com/uk/tvs/the-terrace/
+2025-06-17 17:57:36,708 - INFO - Found 0 products in https://www.samsung.com/uk/tvs/the-terrace/
+2025-06-17 17:57:36,708 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/tvs/the-terrace/: only 0 products found
+2025-06-17 17:57:36,708 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:57:37,484 - INFO - Found 4 products in https://www.samsung.com/uk/cooking-appliances/ovens/
+2025-06-17 17:57:38,708 - INFO - Expanding category URL: https://www.samsung.com/uk/tvs/neo-qled-tvs/
+2025-06-17 17:57:39,487 - INFO - Expanding category URL: https://www.samsung.com/uk/audio-sound/soundbars/q-series/
+2025-06-17 17:57:46,309 - INFO - Found 0 products in https://www.samsung.com/uk/audio-sound/soundbars/q-series/
+2025-06-17 17:57:46,309 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/audio-sound/soundbars/q-series/: only 0 products found
+2025-06-17 17:57:46,309 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:57:48,309 - INFO - Expanding category URL: https://www.samsung.com/uk/tablets/galaxy-tab-s10/
+2025-06-17 17:57:48,905 - INFO - Found 0 products in https://www.samsung.com/uk/washers-and-dryers/all-washers-and-dryers/
+2025-06-17 17:57:50,906 - INFO - Expanding category URL: https://www.samsung.com/uk/refrigerators/bespoke-refrigerator/
+2025-06-17 17:57:57,706 - INFO - Found 0 products in https://www.samsung.com/uk/refrigerators/bespoke-refrigerator/
+2025-06-17 17:57:57,790 - INFO - Found 41 products in https://www.samsung.com/uk/tvs/neo-qled-tvs/
+2025-06-17 17:57:59,709 - INFO - Expanding category URL: https://www.samsung.com/uk/tvs/55-inch-tvs/
+2025-06-17 17:57:59,792 - INFO - Expanding category URL: https://www.samsung.com/uk/tvs/qled-tv/
+2025-06-17 17:58:26,035 - INFO - Found 14 products in https://www.samsung.com/uk/tablets/galaxy-tab-s10/
+2025-06-17 17:58:28,036 - INFO - Expanding category URL: https://www.samsung.com/uk/washer-dryer-accessories/
+2025-06-17 17:58:28,162 - INFO - Found 61 products in https://www.samsung.com/uk/tvs/55-inch-tvs/
+2025-06-17 17:58:30,163 - INFO - Expanding category URL: https://www.samsung.com/uk/refrigerator-accessories/
+2025-06-17 17:58:34,154 - INFO - Found 0 products in https://www.samsung.com/uk/washer-dryer-accessories/
+2025-06-17 17:58:36,163 - INFO - Expanding category URL: https://www.samsung.com/uk/vacuum-cleaners/bespoke-jet/
+2025-06-17 17:58:36,225 - INFO - Found 0 products in https://www.samsung.com/uk/refrigerator-accessories/
+2025-06-17 17:58:38,225 - INFO - Expanding category URL: https://www.samsung.com/uk/tvs/50-inch-tvs/
+2025-06-17 17:58:45,512 - INFO - Found 0 products in https://www.samsung.com/uk/vacuum-cleaners/bespoke-jet/
+2025-06-17 17:58:46,990 - INFO - Found 46 products in https://www.samsung.com/uk/tvs/qled-tv/
+2025-06-17 17:58:47,513 - INFO - Expanding category URL: https://www.samsung.com/uk/projectors/
+2025-06-17 17:58:48,992 - INFO - Expanding category URL: https://www.samsung.com/uk/audio-devices/soundbar/?q-series-soundbars/
+2025-06-17 17:58:53,515 - INFO - Found 0 products in https://www.samsung.com/uk/projectors/
+2025-06-17 17:58:55,516 - INFO - Expanding category URL: https://www.samsung.com/uk/audio-accessories/all-audio-accessories/
+2025-06-17 17:59:05,587 - INFO - Found 60 products in https://www.samsung.com/uk/tvs/50-inch-tvs/
+2025-06-17 17:59:07,588 - INFO - Expanding category URL: https://www.samsung.com/uk/watch-accessories/
+2025-06-17 17:59:15,884 - INFO - Found 0 products in https://www.samsung.com/uk/watch-accessories/
+2025-06-17 17:59:17,885 - INFO - Expanding category URL: https://www.samsung.com/uk/vacuum-cleaner-accessories/
+2025-06-17 17:59:18,588 - INFO - Found 1 products in https://www.samsung.com/uk/audio-accessories/all-audio-accessories/
+2025-06-17 17:59:18,588 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/audio-accessories/all-audio-accessories/: only 1 products found
+2025-06-17 17:59:18,588 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:59:20,590 - INFO - Expanding category URL: https://www.samsung.com/uk/smartphones/
+2025-06-17 17:59:24,626 - INFO - Found 0 products in https://www.samsung.com/uk/vacuum-cleaner-accessories/
+2025-06-17 17:59:26,628 - INFO - Expanding category URL: https://www.samsung.com/uk/audio-accessories/
+2025-06-17 17:59:28,790 - INFO - Found 0 products in https://www.samsung.com/uk/smartphones/
+2025-06-17 17:59:30,791 - INFO - Expanding category URL: https://www.samsung.com/uk/tvs/65-inch-tvs/
+2025-06-17 17:59:46,660 - INFO - Found 4 products in https://www.samsung.com/uk/audio-devices/soundbar/?q-series-soundbars/
+2025-06-17 17:59:46,660 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/audio-devices/soundbar/?q-series-soundbars/: only 4 products found
+2025-06-17 17:59:46,660 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:59:50,319 - INFO - Expanding category URL: https://www.samsung.com/uk/wearables-accessories/
+2025-06-17 17:59:50,438 - INFO - Found 1 products in https://www.samsung.com/uk/audio-accessories/
+2025-06-17 17:59:50,438 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/audio-accessories/: only 1 products found
+2025-06-17 17:59:50,438 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 17:59:52,439 - INFO - Expanding category URL: https://www.samsung.com/uk/watches/galaxy-watch-ultra/
+2025-06-17 17:59:57,215 - INFO - Found 0 products in https://www.samsung.com/uk/wearables-accessories/
+2025-06-17 17:59:58,929 - INFO - Found 0 products in https://www.samsung.com/uk/watches/galaxy-watch-ultra/
+2025-06-17 17:59:59,215 - INFO - Expanding category URL: https://www.samsung.com/uk/monitors/
+2025-06-17 18:00:00,930 - INFO - Expanding category URL: https://www.samsung.com/uk/watches/
+2025-06-17 18:00:03,683 - INFO - Found 62 products in https://www.samsung.com/uk/tvs/65-inch-tvs/
+2025-06-17 18:00:05,685 - INFO - Expanding category URL: https://www.samsung.com/uk/projectors/all-projectors/
+2025-06-17 18:00:06,187 - INFO - Found 1 products in https://www.samsung.com/uk/monitors/
+2025-06-17 18:00:06,187 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/monitors/: only 1 products found
+2025-06-17 18:00:06,187 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 18:00:08,189 - INFO - Expanding category URL: https://www.samsung.com/uk/smartphones/galaxy-z-flip6/
+2025-06-17 18:00:08,996 - INFO - Found 3 products in https://www.samsung.com/uk/watches/
+2025-06-17 18:00:10,997 - INFO - Expanding category URL: https://www.samsung.com/uk/mobile-accessories/
+2025-06-17 18:00:15,390 - INFO - Found 0 products in https://www.samsung.com/uk/smartphones/galaxy-z-flip6/
+2025-06-17 18:00:15,390 - WARNING - ⚠️  Low product count for major category https://www.samsung.com/uk/smartphones/galaxy-z-flip6/: only 0 products found
+2025-06-17 18:00:15,390 - WARNING - This may indicate incomplete pagination or page loading issues
+2025-06-17 18:00:17,391 - INFO - Expanding category URL: https://www.samsung.com/uk/dishwashers/all-dishwashers/
+2025-06-17 18:00:18,081 - INFO - Found 0 products in https://www.samsung.com/uk/mobile-accessories/
+2025-06-17 18:00:29,846 - INFO - Found 7 products in https://www.samsung.com/uk/projectors/all-projectors/
+2025-06-17 18:00:37,005 - INFO - Found 0 products in https://www.samsung.com/uk/dishwashers/all-dishwashers/
+2025-06-17 18:00:39,006 - INFO - Expansion complete: 750 product URLs found
+2025-06-17 18:00:39,006 - INFO - Combined URLs: 0 individual + 750 expanded = 750 total unique URLs
+2025-06-17 18:00:39,007 - INFO - Saving 750 expanded URLs to expanded-list-17.06.17.49.txt
+2025-06-17 18:00:39,013 - INFO - Saving expansion metadata to expansion_metadata.json
+2025-06-17 18:00:39,025 - INFO - Combined URLs: 0 individual + 750 expanded = 750 total unique URLs
+2025-06-17 18:00:39,027 - INFO - Product URL expansion completed successfully!
